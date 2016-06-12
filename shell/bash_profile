@@ -41,8 +41,7 @@ alias updatedb='( ( updatedb 2>/dev/null ) & )'
 alias vim='command vim --noplugin'
 alias who='command who -ar -pld'
 alias wtf='watch -n 1 w -hs'
-alias 'sshrs'='ssh resentspent.corp.gq1.yahoo.com'
-alias 'sshbd'='ssh buildingever-dl.corp.yahoo.com'
+
 # Tell ls to be colourful
 export CLICOLOR=1
 
